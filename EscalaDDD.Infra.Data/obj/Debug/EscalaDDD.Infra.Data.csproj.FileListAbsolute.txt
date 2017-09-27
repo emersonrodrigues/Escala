@@ -1,0 +1,12 @@
+D:\Documents\Visual Studio 2017\Projects\EscalaDDD\EscalaDDD.Infra.Data\bin\Debug\EscalaDDD.Infra.Data.dll.config
+D:\Documents\Visual Studio 2017\Projects\EscalaDDD\EscalaDDD.Infra.Data\bin\Debug\EscalaDDD.Infra.Data.dll
+D:\Documents\Visual Studio 2017\Projects\EscalaDDD\EscalaDDD.Infra.Data\bin\Debug\EscalaDDD.Infra.Data.pdb
+D:\Documents\Visual Studio 2017\Projects\EscalaDDD\EscalaDDD.Infra.Data\bin\Debug\EntityFramework.dll
+D:\Documents\Visual Studio 2017\Projects\EscalaDDD\EscalaDDD.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Documents\Visual Studio 2017\Projects\EscalaDDD\EscalaDDD.Infra.Data\bin\Debug\EntityFramework.xml
+D:\Documents\Visual Studio 2017\Projects\EscalaDDD\EscalaDDD.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Documents\Visual Studio 2017\Projects\EscalaDDD\EscalaDDD.Infra.Data\obj\Debug\EscalaDDD.Infra.Data.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2017\Projects\EscalaDDD\EscalaDDD.Infra.Data\obj\Debug\EscalaDDD.Infra.Data.dll
+D:\Documents\Visual Studio 2017\Projects\EscalaDDD\EscalaDDD.Infra.Data\obj\Debug\EscalaDDD.Infra.Data.pdb
+D:\Documents\Visual Studio 2017\Projects\EscalaDDD\EscalaDDD.Infra.Data\bin\Debug\EscalaDDD.Domain.dll
+D:\Documents\Visual Studio 2017\Projects\EscalaDDD\EscalaDDD.Infra.Data\bin\Debug\EscalaDDD.Domain.pdb
